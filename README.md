@@ -1,0 +1,2 @@
+# NrScala
+Scala library
